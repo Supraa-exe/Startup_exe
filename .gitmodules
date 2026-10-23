@@ -1,0 +1,6 @@
+[submodule "Startup_Analyser"]
+	path = Startup_Analyser
+	url = https://github.com/Supraa-exe/Startup_Analyser.git
+[submodule "mirofish-engine"]
+	path = mirofish-engine
+	url = https://github.com/666ghj/MiroFish.git
